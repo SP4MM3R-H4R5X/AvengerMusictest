@@ -4,7 +4,7 @@ asyncio
 dnspython
 ffmpeg-python
 future
-git+https://github.com/SP4MM3R-H4R5X/yt-dlp
+git+https://github.com/ytdl-org/youtube-dl@master
 motor
 pillow
 psutil
@@ -16,3 +16,4 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
+yt-dlp
