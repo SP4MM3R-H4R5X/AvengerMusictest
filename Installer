@@ -15,4 +15,4 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
-yt-dlp
+git+https://github.com/GIT-H4R5X/yt-dlp@master
